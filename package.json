@@ -1,0 +1,22 @@
+{
+  "name": "sallatask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadabuhasan/SallaTask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadabuhasan/SallaTask/issues"
+  },
+  "homepage": "https://github.com/mohammadabuhasan/SallaTask#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.0"
+  }
+}
